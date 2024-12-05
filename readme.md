@@ -1,5 +1,4 @@
-
-# Jobs Ar-Raudhoh - Aplikasi untuk mencari dan memposting pekerjaan
+# Jobs Ar-Raudhoh - Aplikasi Untuk memposting dan mencari Pekerjaan
 
 **Jobs Ar-Raudhoh** adalah aplikasi web yang memfasilitasi pencarian pekerjaan untuk para pencari kerja dan perusahaan. Dibangun menggunakan PHP, aplikasi ini menyediakan berbagai fitur yang mendukung proses registrasi, login, pencarian pekerjaan, serta informasi perusahaan.
 
@@ -64,7 +63,7 @@ Ikuti langkah-langkah di bawah ini untuk menginstal dan menjalankan aplikasi:
 1. **Clone Repositori**  
    Clone repositori ini ke direktori lokal Anda dengan menjalankan perintah berikut:
    ```bash
-   git clone https://github.com/furiscom/jobs.git
+   git clone https://github.com/username/jobs-ar-raudhoh.git
    ```
 
 2. **Buat Database MySQL**  
@@ -106,4 +105,3 @@ Kami menyambut kontribusi dari siapa saja yang ingin membantu mengembangkan apli
 ---
 
 Terima kasih telah menggunakan **Jobs Ar-Raudhoh**! Jika ada pertanyaan atau saran, jangan ragu untuk membuka *issue* di GitHub.
-
